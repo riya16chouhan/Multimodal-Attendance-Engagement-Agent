@@ -1,0 +1,7 @@
+opencv-python
+numpy
+librosa
+soundfile
+streamlit
+google-generativeai
+pydantic
